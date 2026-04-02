@@ -6,7 +6,7 @@ An interactive Connect 4 game featuring an AI opponent powered by the **Minimax 
 > **School**: School of Computing
 >
 > try it out : 
-<img width="1000" height="1000" alt="Connect 4 game" src="https://github.com/user-attachments/assets/ae128ccd-2008-48c1-b5e3-01fb348de01f" />
+<img width="500" height="500" alt="Connect 4 game" src="https://github.com/user-attachments/assets/ae128ccd-2008-48c1-b5e3-01fb348de01f" />
 
 ---
 
