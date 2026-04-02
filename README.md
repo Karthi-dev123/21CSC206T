@@ -4,6 +4,9 @@ An interactive Connect 4 game featuring an AI opponent powered by the **Minimax 
 
 > **Course**: Artificial Intelligence — SRM University, Kattankulathur  
 > **School**: School of Computing
+>
+> try it out : 
+<img width="2000" height="2000" alt="Connect 4 game" src="https://github.com/user-attachments/assets/ae128ccd-2008-48c1-b5e3-01fb348de01f" />
 
 ---
 
