@@ -11,7 +11,14 @@ An interactive Connect 4 game featuring an AI opponent powered by the **Minimax 
 
 <!-- Add your screenshots here -->
 <!-- ![Game Board](./screenshots/gameplay.png) -->
+<img width="1227" height="817" alt="image" src="https://github.com/user-attachments/assets/a28e409b-02c8-42f0-adab-33ff22743ed6" />
+
+
+<img width="1070" height="772" alt="image" src="https://github.com/user-attachments/assets/8f2cde06-0f0a-4a81-9e70-68fefe071f26" />
+
 <!-- ![AI Analytics](./screenshots/analytics.png) -->
+<img width="1022" height="694" alt="image" src="https://github.com/user-attachments/assets/42c67980-7f88-4163-95bd-73defe9a44f7" />
+
 <!-- ![Win State](./screenshots/win.png) -->
 
 ---
